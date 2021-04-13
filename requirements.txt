@@ -1,0 +1,4 @@
+discord.py==1.6.0
+requests==2.25.1
+sty==1.0.0rc1
+colorama==0.4.4
