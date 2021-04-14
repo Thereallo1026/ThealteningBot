@@ -55,5 +55,6 @@ Simpily double click the `start.bat` and you are ready to go!
 5. Create a new Pull Request
 
 ## Credits
-Main python code developed by u/Apple171017 (Thereallo) 
-`.bat` setup & `.json` edit method by u/ilyBenny
+* Main python code developed by u/Apple171017 (Thereallo) 
+
+* `.bat` setup & `.json` edit method by u/ilyBenny
