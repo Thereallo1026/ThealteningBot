@@ -16,7 +16,7 @@ Pip package
 ## Installations
 Guides on setting up the bot
 
-### Setting up
+### Downloading
 You must have at least pyhon `3.8` installed
 Python download: https://www.python.org/downloads/
 
@@ -37,6 +37,8 @@ Simpily double click the `start.bat` and you are ready to go!
 
 ## Release History
 
+* 0.1.2
+    * Fixed readme.md grammar errors :2iq:
 * 0.1.1
     * Added readme.md
 * 1.0
