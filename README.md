@@ -11,6 +11,8 @@ This is a python bot coded by me, with this bot, you don't require premium to ge
 ```
 Python 3.8 or older
 Pip package
+An Thealtening paid gen plan
+Discord bot token
 ```
 
 ## Installations
@@ -22,6 +24,10 @@ Python download: https://www.python.org/downloads/
 
 Download all the files in this repo
 ![image](https://pays.host/uploads/7b39b7ce-a82c-4eb4-bc0e-8f6d87a18c34/qurONlss.gif)
+
+Get your bot token in Discord Developer Portal (https://discord.com/developers)
+![image](https://pays.host/uploads/7b39b7ce-a82c-4eb4-bc0e-8f6d87a18c34/77SKazvm.gif)
+
 
 ### Setting up the bot
 1. Unzip the files you downloaded
@@ -37,6 +43,8 @@ Simpily double click the `start.bat` and you are ready to go!
 
 ## Release History
 
+* 0.1.3
+    * Fixed readme.md
 * 0.1.2
     * Fixed readme.md grammar errors :2iq:
 * 0.1.1
@@ -55,6 +63,6 @@ Simpily double click the `start.bat` and you are ready to go!
 5. Create a new Pull Request
 
 ## Credits
-* Main python code developed by u/Apple171017 (Thereallo) 
+* Main python code developed by @Apple171017 (Thereallo) 
 
-* `.bat` setup & `.json` edit method by u/ilyBenny
+* `.bat` setup & `.json` edit method by @ilyBenny
