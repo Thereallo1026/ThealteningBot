@@ -5,6 +5,7 @@
 
 ## What is this?
 This is a python bot coded by me, with this bot, you don't require premium to generate alts from discord!
+
 ![image](https://pays.host/uploads/7b39b7ce-a82c-4eb4-bc0e-8f6d87a18c34/8InDkMDO.png)
 
 ## Requirements
@@ -63,6 +64,6 @@ Simpily double click the `start.bat` and you are ready to go!
 5. Create a new Pull Request
 
 ## Credits
-* Main python code developed by @Apple171017 (Thereallo) 
+* Main python code developed by Apple171017 (Thereallo) 
 
-* `.bat` setup & `.json` edit method by @ilyBenny
+* `.bat` setup & `.json` edit method by ilyBenny
