@@ -1,6 +1,8 @@
 # Thealtening Bot
 > A python discord generator bot for thealtening
 
+![Issues](https://img.shields.io/github/issues/apple171017/ThealteningBot) ![Issues](https://img.shields.io/github/forks/apple171017/ThealteningBot) ![Issues](https://img.shields.io/github/stars/apple171017/ThealteningBot)
+
 ![image](https://user-images.githubusercontent.com/64765950/114549345-77dc8b80-9c93-11eb-901d-f274b0412ee0.png)
 
 ## What is this?
