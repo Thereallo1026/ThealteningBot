@@ -44,19 +44,6 @@ Get your bot token in Discord Developer Portal (https://discord.com/developers)
 Simpily double click the `start.bat` and you are ready to go!
 ![image](https://pays.host/uploads/7b39b7ce-a82c-4eb4-bc0e-8f6d87a18c34/GRLh7NTu.gif)
 
-## Release History
-
-* 0.1.3
-    * Fixed readme.md
-* 0.1.2
-    * Fixed readme.md grammar errors :2iq:
-* 0.1.1
-    * Added readme.md
-* 1.0
-    * The first proper release
-* 0.1
-    * Work in progress
-
 ## Contributing
 
 1. Fork it (<https://github.com/apple171017/ThealteningBot/fork>)
@@ -66,6 +53,6 @@ Simpily double click the `start.bat` and you are ready to go!
 5. Create a new Pull Request
 
 ## Credits
-* Main python code developed by Apple171017 (Thereallo) 
+* Main python code developed by Thereallo
 
-* `.bat` setup & `.json` edit method by ilyBenny
+* `.bat` setup & `.json` edit method by Benny
