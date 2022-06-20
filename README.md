@@ -6,7 +6,7 @@
 ## What is this?
 This is a python bot coded by me, with this bot, you don't require premium to generate alts from discord!
 
-![image](https://user-images.githubusercontent.com/64765950/174612940-5abb646d-19ca-46e1-bd5c-aeee5bea9e7d.png)
+![image](https://user-images.githubusercontent.com/64765950/174613459-bf6d2e4d-6a9b-482d-ad85-bedae5fd85f4.png)
 ![image](https://user-images.githubusercontent.com/64765950/174612827-3da2c236-176d-4a0e-b050-8ff78cb56fd6.png)
 
 
